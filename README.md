@@ -35,6 +35,14 @@ You can view the live app here: [Open Dashboard](https://road-accident-crime-pre
 
 ## ⚙️ How to Run Locally
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+git clone https://github.com/SaniaSultana18/Road-Accident-Crime-Prediction.git
+   cd Road-Accident-Crime-Prediction   
+
+2. Install dependencies:
+
+   pip install -r requirements.txt
+
+3. Run the Streamlit app:
+
+   streamlit run app.py
+
