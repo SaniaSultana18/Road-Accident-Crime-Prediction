@@ -36,7 +36,8 @@ You can view the live app here: [Open Dashboard](https://road-accident-crime-pre
 ## ⚙️ How to Run Locally
 1. Clone the repository:
 git clone https://github.com/SaniaSultana18/Road-Accident-Crime-Prediction.git
-   cd Road-Accident-Crime-Prediction   
+
+cd Road-Accident-Crime-Prediction   
 
 2. Install dependencies:
 
