@@ -1,15 +1,15 @@
-# 🚨 Road Accident & Crime Risk Analysis
+# Road Accident & Crime Risk Analysis
 
 This project analyzes road accident and crime data across India, calculates risk scores for each state/UT, and visualizes the results in an interactive dashboard.
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 You can view the live app here: [Open Dashboard](https://road-accident-crime-prediction-rbiutpah4nnqvnf8sej6wa.streamlit.app)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - `main.py` : Processes datasets, calculates risk scores, and generates `final_risk_analysis.csv`.
 - `app.py` : Streamlit dashboard to visualize and explore risk metrics.
 - `data/` : Input datasets
@@ -22,7 +22,7 @@ You can view the live app here: [Open Dashboard](https://road-accident-crime-pre
 
 ---
 
-## 📊 Features
+## Features
 1. **Merged Data Preview**: See the combined crime and road accident data.  
 2. **Key Metrics**: Total states, crime cases, child/adult victims, road accident cases and deaths.  
 3. **Crime Distribution**: Pie chart of child vs adult victims.  
@@ -33,7 +33,7 @@ You can view the live app here: [Open Dashboard](https://road-accident-crime-pre
 
 ---
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 1. Clone the repository:
 git clone https://github.com/SaniaSultana18/Road-Accident-Crime-Prediction.git
 
